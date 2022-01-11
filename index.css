@@ -1,0 +1,88 @@
+body{
+  background-image: url("b.jpg");
+}
+.navb{
+  background-color: black;
+  height: 66px;
+}
+
+.pan{
+  padding: 5px;
+}
+
+#spark{
+  width: 100px;
+  height: 40px;
+}
+
+#a1{
+  color: yellow;
+}
+#a2{
+  color: yellow;
+}
+
+#a3{
+  color: yellow;
+}
+
+.navname{
+  font-size: 18px;
+  position: relative;
+  bottom: 25px;
+  margin-left: 150px;
+}
+
+.jumbotron{
+  color: purple;
+  font-family:  serif;
+  font-weight: bolder;
+  margin-top: 75px;
+  background-image: url("popp.jpg");
+  background-color: black;
+  margin-left: 65px;
+  width: 1230px;
+  height: 580px;
+
+}
+.display-4{
+  text-shadow: 2px 2px #ff0000;
+}
+.lead{
+  margin-top: 50px;
+  margin-bottom: 10px;
+  color: blue;
+  text-shadow: 2px 2px #ff0000;
+}
+
+#but{
+  margin-top: 10px;
+  margin-left: 50px;
+}
+a:hover{
+  background-color: #1c261e;
+}
+a:link{
+  text-decoration: none;
+  padding: 20px;
+}
+
+.row{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.card{
+  margin-left: 50px;
+  width: 500px;
+  color: yellow;
+  background-image: url("x.jpg");
+}
+.pp{
+  text-shadow: 1px 1px #bc2bff;
+  margin-top: 27px;
+}
+
+
+#h5{
+  margin-top: 100px;
+}
